@@ -35,8 +35,6 @@ network = init_network()
 x = np.array([1.0,0.5])
 y = forward(network, x)
 print(y) #[0.31682708 0.69627909]
-##
-##
-    
+
     
     
