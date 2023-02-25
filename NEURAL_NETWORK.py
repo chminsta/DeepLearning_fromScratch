@@ -38,3 +38,4 @@ plt.plot(x, y_relu, label='Relu Function')
 plt.ylim(-0.1,1.1) #y축 범위
 plt.legend() # add legend, label 추가
 plt.show()
+##
